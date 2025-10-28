@@ -55,7 +55,7 @@ Output Graph
 
 
 Tablular Column
-![Uploading WhatsApp Image 2025-10-28 at 22.10.00_52c3e5ee.jpg…]()
+![WhatsApp Image 2025-10-28 at 22 10 00_52c3e5ee](https://github.com/user-attachments/assets/1bfb91bb-b50b-490f-99d9-b3e805818927)
 
 
 Result
